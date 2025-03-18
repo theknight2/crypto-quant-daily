@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
 .Python
 env/
 build/
@@ -39,8 +38,3 @@ data/
 .idea/
 .vscode/
 *.swp
-*.swo
-
-# OS specific files
-.DS_Store
-Thumbs.db
